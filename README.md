@@ -72,11 +72,17 @@ me.say_hi()
 
 ## GitHub Stats
 
-![](https://streak-stats.demolab.com/?user=nurlanildirimli&theme=dark&hide_border=false)<br/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=nurlanildirimli&theme=dark&hide_border=false" />
+</p>
+
 ---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## ✍️ Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
 
 ---
 
