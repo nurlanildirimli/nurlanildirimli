@@ -23,7 +23,7 @@ me.say_hi()
 ```
 <p align="center">
   <a href="https://github.com/nurlanildirimli">
-    <img src="https://komarev.com/ghpvc/?username=nurlanildirimli&label=Profile%20Views&color=0e75b6&style=flat" />
+    <img src="https://komarev.com/ghpvc/?username=nurlanildirimli&label=Profile%20Views&color=a83a32&style=flat" />
   </a>
 </p>
 
