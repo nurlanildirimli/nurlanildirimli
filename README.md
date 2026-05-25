@@ -1,6 +1,26 @@
-<h1 align="center">Hi, I'm Nurlan İldırımlı 👋</h1>
-<h3 align="center">Computer Engineer | M.S. Student | Full-Stack & AI Developer</h3>
+<h1 align="center">Hello There 👋</h1>
 
+```python
+#!/usr/bin/python
+# N.I was here
+
+
+class ComputerEngineer:
+
+    def __init__(self):
+        self.name = "Nurlan İldırımlı"
+        self.role = "Computer Engineer"
+        self.education = "M.S. Student in Computer Engineering"
+        self.focus = ["Full-Stack Development", "Mobile Development", "Backend Systems", "AI", "Computer Vision"]
+        self.language_spoken = ["az_AZ", "tr_TR", "en_US", "ru_RU"]
+
+    def say_hi(self):
+        print("Code, coffee, and occasional bugs live here. Welcome.")
+
+
+me = ComputerEngineer()
+me.say_hi()
+```
 <p align="center">
   <a href="https://github.com/nurlanildirimli">
     <img src="https://komarev.com/ghpvc/?username=nurlanildirimli&label=Profile%20Views&color=0e75b6&style=flat" />
