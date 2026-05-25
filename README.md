@@ -79,7 +79,7 @@
 
 <p>
   <a href="https://www.linkedin.com/in/nurlan-ildırımlı-a5b6a9242">
-    <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="mailto:nurlan.ildirimli@mail.ru">
     <img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail" />
