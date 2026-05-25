@@ -79,6 +79,11 @@ me.say_hi()
 
 ---
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
 ## Featured Projects
 
 - **STA with Dynamic Video Stimuli**  
